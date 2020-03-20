@@ -85,9 +85,9 @@ author:
   bio              : "Post Doctoral Research Scientist at Columbia University"
   location         : "New York, NY, USA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?user=RytkB1IAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Laya_Das"
   #uri              :
   #bitbucket        :
   #codepen          :
