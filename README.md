@@ -1,109 +1,160 @@
-# The Midnight theme
+# modern-resume-theme [![Gem Version](https://badge.fury.io/rb/modern-resume-theme.svg)](https://badge.fury.io/rb/modern-resume-theme) [![Build Status](https://travis-ci.com/sproogen/modern-resume-theme.svg?branch=master)](https://travis-ci.com/sproogen/modern-resume-theme)
 
-[![Build Status](https://travis-ci.org/pages-themes/midnight.svg?branch=master)](https://travis-ci.org/pages-themes/midnight) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-midnight.svg)](https://badge.fury.io/rb/jekyll-theme-midnight)
+*A modern simple static resume template and theme. Powered by Jekyll and GitHub pages.*
+*Host your own resume on GitHub for **free!***
 
-*Midnight is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/midnight), or even [use it today](#usage).*
+Now includes **Dark Mode**
 
-![Thumbnail of Midnight](thumbnail.png)
+[View Demo](https://sproogen.github.io/modern-resume-theme/)
+
+![img](screenshot.png)
+
+*Thank you for checking out my resume theme / template. If you have any feedback or suggestions for things I can add please let me know by either by raising an [issue](https://github.com/sproogen/modern-resume-theme/issues/new/choose) or feel free to send me an email to [sprog31@gmail.com](mailto:sprog31@gmail.com), I'm always happy to help.*
+
+*I always enjoy seeing how people are using my creations and if you would like to say thanks feel free to [buy me a coffee (buymeacoffee.com/vJ6HfLu)](https://buymeacoff.ee/vJ6HfLu).*
+
+*If you would like to see how I am using this then you can view my resume [here (jameswgrant.co.uk)](http://www.jameswgrant.co.uk/) and find the code [here (sproogen/jameswgrant)](https://github.com/sproogen/jameswgrant), hopefully this might help you.*
+
+You can view the project [roadmap here](https://github.com/sproogen/modern-resume-theme/projects/1).
+
+## Installation & setup guide
+This template is designed to be hosted using GitHub pages and so that's what these instructions will cover. If you plan on hosting it seperately then there might be some extra steps that we wont cover.
+
+Before starting it might be useful to familiarise yourself with [Jekyll](https://jekyllrb.com/docs/home/), [Markdown](https://www.markdownguide.org/getting-started) and [GitHub pages](https://pages.github.com/).
+
+##### Step 1 - GitHub
+Start by creating an account on [GitHub](https://github.com/join)
+
+##### Step 2 - Create Repository
+Create a repository on GitHub to hold your files and host your resume. You can find out how to do that [here](https://pages.github.com/)
+
+##### Step 3 - Download Resume Template
+Download and extract the following zip into the git repository you have just created. [resume-template.zip](https://github.com/sproogen/modern-resume-theme/archive/gh-pages.zip)
+
+##### Step 4 - Push it
+Commit and push the resume template to github
+```
+$ git add --all
+$ git commit -m "Initial resume setup"
+$ git push -u origin master
+```
+##### Set 5 - See it
+You should now be able to see the demo resume template using this theme at `[your-username].github.io`
 
 ## Usage
 
-To use the Midnight theme:
+So now you will be able to see the demo template at your github url. You can can edit the yml files and replace the demo content with your own. Hopefully it will be fairly simple to work out where all the content goes, but here is a quick overview.
 
-1. Add the following to your site's `_config.yml`:
+##### _config.yml
+This will contain all the of the main configuration for your resume such as your name, email, social media links and about me content. It will also allow you to change the titles of some of the content sections.
+A full example of the _config.yml can be found [here](https://github.com/sproogen/modern-resume-theme/blob/master/_config.yml)
 
-    ```yml
-    theme: jekyll-theme-midnight
-    ```
-
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
-
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
-
-## Customizing
-
-### Configuration variables
-
-Midnight will respect the following variables, if set in your site's `_config.yml`:
-
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+##### Dark Mode
+Dark mode is configured via _config.yml 
+```
+darkmode: true/false
 ```
 
-Additionally, you may choose to set the following optional variables:
-
-```yml
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+##### _data/education.yml
+A list of all your education, each education will follow this format
+```
+- layout: left (options: left, right, top, top-right, top-middle)
+  name: Institution name
+  dates: Date Range (eg. 2016 - 2019)
+  qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
 ```
 
-### Stylesheet
+##### _data/experience.yml
+A list of all your experience, each experience will follow this format
+```
+- layout: left (options: left, right, top, top-right, top-middle)
+  company: Company name
+  link: Link to company (eg. https://google.com)(optional)
+  job_title: Job title
+  dates: Date Range (eg. November 2016 - present)
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+```
 
-If you'd like to add your own custom styles:
+If you wish to specify multiple job titles for a single company, use this format
+```
+- layout: left (options: left, right, top, top-right, top-middle)
+  company: Company name
+  link: Link to company (optional)
+  jobs:
+    - title: Job title 1
+      dates: Date Range (eg. November 2016 - present)
+    - title: Job title 2
+      dates: Date Range (eg. January 2015 - November 2016)
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of role
+```
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+##### _data/projects.yml
+A list of all your projects, each project will follow this format
+```
+- layout: left (options: left, right, top, top-right, top-middle)
+  name: Project name
+  link: Link to project (eg. https://sproogen.github.io/modern-resume-theme)(optional)
+  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  quote: >
+    Short overview of the project (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description about the work on/with the project
+```
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+##### assets/main.scss
+Add any css changes or additions you want to make here after the line `@import 'modern-resume-theme';`
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+## Running locally
 
-### Layouts
+Before you start make sure you have *Ruby* and the gems for *Jekyll* installed locally. You can find out how to do that [here](https://jekyllrb.com/docs/installation/).
 
-If you'd like to change the theme's HTML layout:
+1. Clone your resume repository locally *(if you haven't already)*
+2. `cd [your-repository-name]`
+3. `bundle install`
+4. `bundle exec jekyll serve`
+5. Open your browser to `http://localhost:4000`
 
-1. [Copy the original template](https://github.com/pages-themes/midnight/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/default.html` in your site
-3. Paste the default layout content copied in the first step
-4. Customize the layout as you'd like
+Any changes you make will automatically build and you will be able to see these by refreshing your browser.
 
-### Overriding GitHub-generated URLs
-
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
-
-1. Look at [the template source](https://github.com/pages-themes/midnight/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
-
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
-
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
-
-## Roadmap
-
-See the [open issues](https://github.com/pages-themes/midnight/issues) for a list of proposed features (and known issues).
-
-## Project philosophy
-
-The Midnight theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+*Note: You will need to re-run `bundle exec jekyll serve` to see changes made in `_config.yml`.*
 
 ## Contributing
 
-Interested in contributing to Midnight? We'd love your help. Midnight is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+Bug reports and pull requests are welcome on GitHub at https://github.com/sproogen/modern-resume-theme. You can view our full guide to contributing [here](https://github.com/sproogen/modern-resume-theme/blob/master/CONTRIBUTING.md)
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-### Previewing the theme locally
+## Development
 
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
+### Locally
 
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/midnight`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+Before you start make sure you have *Ruby* and the gems for *Jekyll* installed locally. You can find out how to do that [here](https://jekyllrb.com/docs/installation/).
 
-### Running tests
+*Note: You will need version `1.15.2` of bundler, as this is the only version that Heroku supports.*
 
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+1. Fork and or clone this repository locally
+2. `cd modern-resume-theme`
+3. `bundle install`
+4. `bundle exec jekyll serve`
+5. Open your browser to `http://localhost:4000`
+
+Any changes you make will automatically build and you will be able to see these by refreshing your browser. To find out more about *Jekyll* take a look [here](https://jekyllrb.com/docs/usage/).
+
+*Note: You will need to re-run `bundle exec jekyll serve` to see changes made in `_config.yml`.*
+
+### Docker
+
+If you have docker installed you can simply run `docker-compose up` to launch the site in a container, it will then be hosted at `http://localhost:4000`
+
+## License
+
+The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
