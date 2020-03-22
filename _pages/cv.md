@@ -11,11 +11,9 @@ redirect_from:
 
 Research and Teaching Experience
 ======
-| Position	| 	University |
-|--- |--- |--- |
-| 2014 - 2018 | Doctor of Philosophy | Indian Institute of Technology Gandhinagar, Gandhinagar |
-| 2012 - 2014 | Master of Technology, Electrical Engineering | Indian Institute of Technology Gandhinagar, Gandhinagar |
-| 2007 - 2011 | Bachelor of Technology, Electronics & Telecommunication | Biju Patnaik University of Technology, Odisha |
+| Position	| Duration	|
+|--- |--- |
+| **Post Doctoral Research Scientist**\\Columbia University | Dec 2018 - Present |
 
 
 - **Post Doctoral Research Scientist**
