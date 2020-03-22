@@ -35,15 +35,15 @@ Education
 ======
 |   	|   	|   	|   	|   	|
 |---	|---	|---	|---	|---	|
-|2014 - 2018   	|Doctor of Philosophy   	|   	|   	|   	|
-|2012 - 2014   	|   	|   	|   	|   	|
-|2007 - 2011   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
 
 | Time	| Degree	| 	University |
 |--- |--- |--- |
-|  |  | Indian Institute of Technology Gandhinagar, Gandhinagar |
-|  | Master of Technology, Electrical Engineering | Indian Institute of Technology Gandhinagar, Gandhinagar |
-|  | Bachelor of Technology, Electronics & Telecommunication | Biju Patnaik University of Technology, Odisha |
+| 2014 - 2018 | Doctor of Philosophy | Indian Institute of Technology Gandhinagar, Gandhinagar |
+| 2012 - 2014 | Master of Technology, Electrical Engineering | Indian Institute of Technology Gandhinagar, Gandhinagar |
+| 2007 - 2011 | Bachelor of Technology, Electronics & Telecommunication | Biju Patnaik University of Technology, Odisha |
 
 
 Skills
