@@ -1,4 +1,11 @@
 ---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+Journal Articles
+=====
 11.	[Hidden representations in deep neural networks: Part 1. Classification problems](https://doi.org/10.1016/j.compchemeng.2019.106669), Abhishek Sivaram, **Laya Das**, Venkat Venkatasubramanian, *Computers and Chemical Engineering*, 134, 106669, 2020
 10.	[NeuralCompression: A Machine Learning Approach to Compress High Frequency Measurements in Smart Grid](https://doi.org/10.1016/j.apenergy.2019.113966), **Laya Das**, Dinesh Garg, Babji Srinivasan, Applied Energy, 257, 113966, 2020
 9.	[Data Driven Approaches for Diagnosis of Incipient Faults in Electric Motors](https://doi.org/10.1109/TII.2019.2895132), Munikoti Sai, **Laya Das**, Balasubramaniam Natarajan, Babji Srinivasan, IEEE Transactions on Industrial Informatics, 15(9), 5299-5308, 2019
@@ -10,6 +17,7 @@
 9.	“A novel framework for integrating data mining with control loop performance assessment”, Laya Das, Babji Srinivasan, Raghunathan Rengaswamy, AIChE Journal, 63, 3311-3328, 2017, DOI: https://doi.org/10.1002/aic.15689
 10.	“Multivariate Control Loop Performance Assessment with Hurst Exponent and Mahalanobis Distance”, Laya Das, Babji Srinivasan, Raghunathan Rengaswamy, IEEE Transactions on Control Systems Technology, 24(3), 1067-1074, 2016, DOI: https://doi.org/10.1109/TCST.2015.2468087
 Conference Proceedings
+=====
 11.	“Effect of Transformation in Compressed Sensing of Smart Grid Data”, Amit Joshi, Laya Das, Balasubramaniam Natarajan, Babji Srinivasan, 2019 IEEE PES GTD Grand International Conference and Exposition Asia (GTD Asia), 2019, DOI: 10.1109/GTDAsia.2019.8715854
 12.	“Cognitive Behaviour Based Framework for Operator Learning: Knowledge and Capability Assessment through Eye Tracking”, Laya Das,  Babji Srinivasan, Rajagopalan Srinivasan, Proceedings of the 27th European Symposium on Computer Aided Process Engineering, Computer Aided Chemical Engineering, 2017, DOI: 10.1016/B978-0-444-63965-3.50498-0
 13.	“On-line Performance Monitoring of the PEM Fuel Cell using a Fast EIS Approach”, Laya Das, Babji Srinivasan, Raghunathan Rengaswamy, Proceedings of The 2015 American Control Conference, Chicago, Illinois, USA; DOI: 10.1109/ACC.2015.7170963
