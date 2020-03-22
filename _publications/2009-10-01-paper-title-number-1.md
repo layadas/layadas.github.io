@@ -1,11 +1,7 @@
 ---
-11.	[Hidden representations in deep neural networks: Part 1. Classification problems](https://doi.org/10.1016/j.compchemeng.2019.106669),
-Abhishek Sivaram, **Laya Das**, Venkat Venkatasubramanian, Computers and Chemical Engineering, 134, 106669, 2020
-10.	[NeuralCompression: A Machine Learning Approach to Compress High Frequency Measurements in Smart Grid](https://doi.org/10.1016/j.apenergy.2019.113966),
-**Laya Das**, Dinesh Garg, Babji Srinivasan, Applied Energy, 257, 113966, 2020
-
-9.	[Data Driven Approaches for Diagnosis of Incipient Faults in Electric Motors](https://doi.org/10.1109/TII.2019.2895132), 
-Munikoti Sai, Laya Das, Balasubramaniam Natarajan, Babji Srinivasan, IEEE Transactions on Industrial Informatics, 15(9), 5299-5308, 2019, DOI:  
+11.	[Hidden representations in deep neural networks: Part 1. Classification problems](https://doi.org/10.1016/j.compchemeng.2019.106669), Abhishek Sivaram, **Laya Das**, Venkat Venkatasubramanian, *Computers and Chemical Engineering*, 134, 106669, 2020
+10.	[NeuralCompression: A Machine Learning Approach to Compress High Frequency Measurements in Smart Grid](https://doi.org/10.1016/j.apenergy.2019.113966), **Laya Das**, Dinesh Garg, Babji Srinivasan, Applied Energy, 257, 113966, 2020
+9.	[Data Driven Approaches for Diagnosis of Incipient Faults in Electric Motors](https://doi.org/10.1109/TII.2019.2895132), Munikoti Sai, **Laya Das**, Balasubramaniam Natarajan, Babji Srinivasan, IEEE Transactions on Industrial Informatics, 15(9), 5299-5308, 2019
 4.	“On Developing a Framework for Detecting Oscillations in Data”, Mohd Faheem Ullah, Laya Das, Sweta Parmar, Raghunathan Rengaswamy, Babji Srinivasan, ISA Transactions, 89, 96-112, 2019, DOI: https://doi.org/10.1016/j.isatra.2018.12.026
 5.	“A Framework for Efficient Information Aggregation in the Smart Grid”, Amit Joshi, Laya Das, Balasubramaniam Natarajan, Babji Srinivasan, IEEE Transactions on Industrial Informatics, 15(4), 2233-2243, 2019, DOI: https://doi.org/10.1109/TII.2018.2866302 
 6.	“A novel approach for benchmarking and assessing the performance of state estimators”, Laya Das, Kumar Gaurav, Raghunathan Rengaswamy, Babji Srinivasan, ISA Transactions, 80, 137-145, 2018, DOI: https://doi.org/10.1016/j.isatra.2018.06.005
