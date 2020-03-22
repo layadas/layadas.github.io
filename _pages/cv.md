@@ -20,33 +20,31 @@ Research and Teaching Experience
 	- Aug 2018 – Dec 2018
 
 - **Graduate Teaching Fellow**
-Co-Instructor for MA 632: Applied Statistics
-Indian Institute of Technology Gandhinagar				            Jan 2018 – Apr 2018
+	- Co-Instructor for MA 632: Applied Statistics
+	- Indian Institute of Technology Gandhinagar, Jan 2018 – Apr 2018
 
 - **Graduate Teaching Fellow**
-Co-Instructor for ES 613: Modern Control Theory
-Indian Institute of Technology Gandhinagar				          Aug 2016 – Nov 2016
+	- Co-Instructor for ES 613: Modern Control Theory
+	- Indian Institute of Technology Gandhinagar, Aug 2016 – Nov 2016
 
 - **Visiting Student**
-Hosted by: Prof Raghunathan Rengaswamy
-Indian Institute of Technology Madras					          Aug 2014 – Dec 2015
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+	- Hosted by: Prof Raghunathan Rengaswamy
+	- Indian Institute of Technology Madras, Aug 2014 – Dec 2015
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-  
+- **Doctor of Philosophy**, CPI: 9.31/10
+	- Indian Institute of Technology Gandhinagar, Gandhinagar
+	- 2014 - 2018
+- **Master of Technology**, CPI: 9.06/10
+	- Electrical Engineering
+	- Indian Institute of Technology Gandhinagar, Gandhinagar
+	- 2012 - 2014
+- **Bachelor of Technology**, CPI: 8.81/10
+	- Electronics and Telecommunication
+	- Biju Patnaik University of Technology
+	- 2007 - 2011
+
 Skills
 ======
 * Skill 1
