@@ -11,6 +11,12 @@ redirect_from:
 
 Research and Teaching Experience
 ======
+|   	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+
 | Position	| Duration	|
 |--- |--- |
 | **Post Doctoral Research Scientist**<br>Columbia University | Dec 2018 - Present |
@@ -38,8 +44,13 @@ Research and Teaching Experience
 
 Education
 ======
+|   	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
 
-| Time	| Degree	| 	University |
+|Time	|Degree	|University	|
 |---	|---	|---	|
 | 2014 - 2018 | Doctor of Philosophy | Indian Institute of Technology Gandhinagar, Gandhinagar |
 | 2012 - 2014 | Master of Technology, Electrical Engineering | Indian Institute of Technology Gandhinagar, Gandhinagar |
