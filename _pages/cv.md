@@ -12,8 +12,7 @@ redirect_from:
 ## Research and Teaching Experience
 ___
 
-|	|	| 	
---- |--- 
+--- |--- |
  **Post Doctoral Research Scientist**<br>Columbia University | Dec 2018 - Present 
  **Post Doctoral Fellow**<br>Indian Institute of Technology Gandhinagar and WIN Foundation | Sept 2018 - Dec 2018 
  **Graduate Teaching Fellow**<br>Co-Instructor for MA 632: Applied Statistics<br>Indian Institute of Technology Gandhinagar | Jan 2018 – Apr 2018 
