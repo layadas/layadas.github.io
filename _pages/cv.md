@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research and Teaching Experience
+## Research and Teaching Experience
 ======
 
 | Position	| Duration	|
@@ -20,7 +20,7 @@ Research and Teaching Experience
 | **Graduate Teaching Fellow**<br>Co-Instructor for ES 613: Modern Control Theory<br>Indian Institute of Technology Gandhinagar | Aug 2016 – Nov 2016 |
 | **Visiting Student**<br>Hosted by: Prof Raghunathan Rengaswamy<br>Indian Institute of Technology Madras | Aug 2014 – Dec 2015 |
 
-Education
+### Education
 ======
 
 | Year	| Degree	| 	University |
