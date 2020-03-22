@@ -33,14 +33,14 @@ Research and Teaching Experience
 
 Education
 ======
-- **Doctor of Philosophy**, CPI: 9.31/10
+- **Doctor of Philosophy**, 9.31/10
 	- Indian Institute of Technology Gandhinagar, Gandhinagar
 	- 2014 - 2018
-- **Master of Technology**, CPI: 9.06/10
+- **Master of Technology**, 9.06/10
 	- Electrical Engineering
 	- Indian Institute of Technology Gandhinagar, Gandhinagar
 	- 2012 - 2014
-- **Bachelor of Technology**, CPI: 8.81/10
+- **Bachelor of Technology**, 8.81/10
 	- Electronics and Telecommunication
 	- Biju Patnaik University of Technology
 	- 2007 - 2011
