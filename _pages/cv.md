@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Research and Teaching Experience
-======
+### Research and Teaching Experience
+___
 
 | Position	| Duration	
 |--- |--- |
@@ -21,7 +21,6 @@ redirect_from:
 | **Visiting Student**<br>Hosted by: Prof Raghunathan Rengaswamy<br>Indian Institute of Technology Madras | Aug 2014 – Dec 2015 
 
 ### Education
-======
 
 | Year	| Degree	| 	University |
 |---	|---	|---	|
@@ -30,7 +29,7 @@ redirect_from:
 | 2007 - 2011 | Bachelor of Technology, Electronics & Telecommunication | Biju Patnaik University of Technology, Odisha |
 
 
-Skills
+### Skills
 ======
 * Skill 1
 * Skill 2
