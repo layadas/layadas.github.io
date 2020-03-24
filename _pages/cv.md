@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,39 +21,32 @@ ___
 
 ## Education
 
-| Year	| Degree	| 	University |
-|---	|---	|---	|
-| 2014 - 2018 | Doctor of Philosophy | Indian Institute of Technology Gandhinagar, Gandhinagar |
-| 2012 - 2014 | Master of Technology, Electrical Engineering | Indian Institute of Technology Gandhinagar, Gandhinagar |
-| 2007 - 2011 | Bachelor of Technology, Electronics & Telecommunication | Biju Patnaik University of Technology, Odisha |
+---	|---	|---	
+ 2014 - 2018 | Doctor of Philosophy | Indian Institute of Technology Gandhinagar, Gandhinagar 
+ 2012 - 2014 | Master of Technology, Electrical Engineering | Indian Institute of Technology Gandhinagar, Gandhinagar 
+ 2007 - 2011 | Bachelor of Technology, Electronics & Telecommunication | Biju Patnaik University of Technology, Odisha 
 
 
 ### Skills
-======
+___
 * State Estimation and Control
 * Time Series Analysis
 * Stochastic Signal Processing (Time frequency analysis, Compressive Sensing)
 * Statistical Machine Learning (Neural Networks, Probabilistic Graphical Models)
 
 
-Publications
-======
+### Publications
+___
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
-======
+___
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+### Professional Services
+___
 * Currently signed in to 43 different slack teams
