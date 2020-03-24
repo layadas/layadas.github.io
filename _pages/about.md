@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Systems scientist.
+I am a Systems scientist - my research is focussed on quantifying the performance of systems.
 
-My research is focussed on quantifying the performance of systems.
-
-In this respect, I have worked on health monitoring of systems ranging from Polymer Electrolyte Membrane Fuel
-Cells to control and estimation algorithms.
+I have worked on health monitoring of systems ranging from Polymer Electrolyte Membrane Fuel Cells to Control and Estimation algorithms.
+Techniques that I typically use for performance quantification include signal processing, time series analysis, compressive sensing and the like.
