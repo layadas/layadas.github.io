@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a systems scientist.
+I am a Systems scientist.
+
+My research has been focussed on quantifying the performance of systems. In this respect, I have worked on health monitoring of systems ranging from Polymer Electrolyte Membrane Fuel
+Cells to control and estimation algorithms.
