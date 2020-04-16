@@ -9,7 +9,12 @@ redirect_from:
 ---
 
 I am a systems scientist. I work on estimation, control and data analysis for health monitoring and operation of complex systems.
+I have worked on monitoring and control of simulated, lab-scale and real-life systems.
 
-Some of the systems that I have worked on include 
-I have worked on health monitoring of systems ranging from Polymer Electrolyte Membrane Fuel Cells to Control and Estimation algorithms.
-Techniques that I typically use for performance quantification include signal processing, time series analysis, compressive sensing and the like.
+My approach towards understanding, modeling, monitoring and controlling complex systems includes accounting for interactions between individual units.
+For example, I employed the Mahalanobis distance to account for interactions between control loops in a multivaiate system.
+I am presently working on accounting for interactions between utiltarian agents with entropy and cross-entropy.
+I also employ data to validate my methods. I titled my PhD thesis "Assessing the Performance of Estimation and Control: from Data to Knowledge".
+
+In addition to my thesis, I have collaborated on a range of interesting problems in Cognitive Engineering and Smart Grid.
+In each of these applications, we look at exploiting domain knowledge and extracting information from data to better solve the problems.
