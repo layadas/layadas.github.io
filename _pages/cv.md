@@ -35,9 +35,13 @@ ___
 * Statistical Machine Learning (Neural Networks, Probabilistic Graphical Models)
 
 
-## [Publications](<ul>{% for post in site.publications %}{% include archive-single-cv.html %}{% endfor %}</ul>)
-
-Teaching
+## Publications
+___
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+## Teaching
 ___
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
