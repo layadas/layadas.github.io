@@ -11,8 +11,8 @@ title                    : "Laya Das"
 title_separator          : "-"
 name                     : &name "Laya Das"
 description              : &description "Web page"
-url                      : https://layadas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://layadas.github.io
+baseurl                  : 
 repository               : "layadas/layadas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -88,30 +88,30 @@ author:
   googlescholar    : https://scholar.google.com/citations?user=RytkB1IAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Laya_Das"
-  #uri              :
-  #bitbucket        :
-  #codepen          :
-  #dribbble         :
-  #flickr           :
-  #facebook         :
-  #foursquare       :
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
   github           : "layadas"
-  #google_plus      :
-  #keybase          :
-  #instagram        :
-  #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  #lastfm           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
   linkedin         : "laya-das-39935a73/"
-  orcid            : "http://orcid.org/yourorcidurl"
-  #pinterest        :
-  #soundcloud       :
-  #stackoverflow    : # http://stackoverflow.com/users/123456/username
-  #steam            :
-  #tumblr           :
-  #twitter          : "replacethistwitterhandle"
-  #vine             :
-  #weibo            :
-  #xing             :
+  orcid            : #"http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
   youtube          :
   wikipedia        :
 
@@ -221,15 +221,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   
 # Sass/SCSS
 sass:
