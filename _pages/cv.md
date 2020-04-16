@@ -35,8 +35,12 @@ ___
 * Statistical Machine Learning (Neural Networks, Probabilistic Graphical Models)
 
 
-[Publications](layadas.github.io/publications/)
-
+## Publications
+___
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
   
 ## Professional Services
 ___
