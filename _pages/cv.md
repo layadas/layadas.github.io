@@ -27,7 +27,7 @@ ___
  2007 - 2011 | Bachelor of Technology, Electronics & Telecommunication | Biju Patnaik University of Technology, Odisha 
 
 
-### Skills
+### Skills and Expertise
 ___
 * State Estimation and Control
 * Time Series Analysis
@@ -49,4 +49,4 @@ ___
   
 ### Professional Services
 ___
-* Currently signed in to 43 different slack teams
+* Reviewer for *IEEE Transactions on Smart Grid* 2020
