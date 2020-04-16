@@ -11,11 +11,12 @@ Journal Articles
 9.	[Data Driven Approaches for Diagnosis of Incipient Faults in Electric Motors](https://doi.org/10.1109/TII.2019.2895132), Munikoti Sai, Laya Das, Balasubramaniam Natarajan, Babji Srinivasan, *IEEE Transactions on Industrial Informatics*, 15(9), 5299-5308, 2019
 8.	[On Developing a Framework for Detecting Oscillations in Data](https://doi.org/10.1016/j.isatra.2018.12.026), Mohd Faheem Ullah, Laya Das, Sweta Parmar, Raghunathan Rengaswamy, Babji Srinivasan, *ISA Transactions*, 89, 96-112, 2019
 7.	[A Framework for Efficient Information Aggregation in the Smart Grid](https://doi.org/10.1109/TII.2018.2866302), Amit Joshi, Laya Das, Balasubramaniam Natarajan, Babji Srinivasan, *IEEE Transactions on Industrial Informatics*, 15(4), 2233-2243, 2019
-6.	[A novel approach for benchmarking and assessing the performance of state estimators](https://doi.org/10.1016/j.isatra.2018.06.005), Laya Das, Kumar Gaurav, Raghunathan Rengaswamy, Babji Srinivasan, *ISA Transactions*, 80, 137-145, 2018
+6.	[[A novel approach for benchmarking and assessing the performance of state estimators](https://doi.org/10.1016/j.isatra.2018.06.005), Laya Das, Kumar Gaurav, Raghunathan Rengaswamy, Babji Srinivasan, *ISA Transactions*, 80, 137-145, 2018
 5.	[Toward Preventing Accidents in Process Industries by Inferring the Cognitive State of Control Room Operators through Eye Tracking](https://doi.org/10.1021/acssuschemeng.7b03971), Laya Das, Babji Srinivasan, Rajagopalan Srinivasan, *ACS Sustainable Chemistry and Engineering*, 6(2), 2517-2528, 2018
-4.	[Data mining and control loop performance assessment: The multivariate case](https://doi.org/10.1002/aic.15689), Laya Das, Raghunathan Rengaswamy, Babji Srinivasan, *AIChE Journal*, 63, 3311-3328, 2017
-3.	[A novel framework for integrating data mining with control loop performance assessment](https://doi.org/10.1002/aic.15689), Laya Das, Babji Srinivasan, Raghunathan Rengaswamy, *AIChE Journal*, 62, 146-165, 2016
-2.	[Multivariate Control Loop Performance Assessment with Hurst Exponent and Mahalanobis Distance](https://doi.org/10.1109/TCST.2015.2468087), Laya Das, Babji Srinivasan, Raghunathan Rengaswamy, *IEEE Transactions on Control Systems Technology*, 24(3), 1067-1074, 2016
+4.	[A novel approach to evaluate state estimation approaches for anaerobic digester units under modeling uncertainties: Application to an industrial dairy unit](https://doi.org/10.1016/j.jece.2017.07.039), Laya Das, Gaurav Kumar, Mallavarapu Deepika Rani, Babji Srinivasan, *Journal of Environmental Chemical Engineering*, 5(4), 4004-4013. 2017
+3. [Data mining and control loop performance assessment: The multivariate case](https://doi.org/10.1002/aic.15689), Laya Das, Raghunathan Rengaswamy, Babji Srinivasan, *AIChE Journal*, 63, 3311-3328, 2017
+2.	[A novel framework for integrating data mining with control loop performance assessment](https://doi.org/10.1002/aic.15689), Laya Das, Babji Srinivasan, Raghunathan Rengaswamy, *AIChE Journal*, 62, 146-165, 2016
+1.	[Multivariate Control Loop Performance Assessment with Hurst Exponent and Mahalanobis Distance](https://doi.org/10.1109/TCST.2015.2468087), Laya Das, Babji Srinivasan, Raghunathan Rengaswamy, *IEEE Transactions on Control Systems Technology*, 24(3), 1067-1074, 2016
 
 Conference Proceedings
 =====
