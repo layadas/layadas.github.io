@@ -49,4 +49,7 @@ ___
   
 ### Professional Services
 ___
-* Reviewer for *IEEE Transactions on Smart Grid* 2020
+- Reviewer for *IEEE Transactions on Smart Grid* 2020
+- Reviewer for *Computers and Chemical Engineering* 2020
+- Reviewer for *Indian Control Conference 2017*
+- Secretary of *IEEE Student Branch, IIT Gandhinagar* 2013
