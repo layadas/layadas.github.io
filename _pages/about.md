@@ -17,4 +17,4 @@ I am presently working on accounting for interactions between utiltarian agents 
 I also employ data to validate my methods. I titled my PhD thesis "Assessing the Performance of Estimation and Control: from Data to Knowledge".
 
 In addition to my thesis, I have collaborated on a range of interesting problems in Cognitive Engineering and Smart Grid.
-In each of these applications, we look at exploiting domain knowledge and extracting information from data to better solve the problems.
+In each of these applications, we look at exploiting domain knowledge and extracting information from data to efficiently solve problems.
