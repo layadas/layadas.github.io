@@ -27,7 +27,7 @@ ___
  2007 - 2011 | Bachelor of Technology, Electronics & Telecommunication | Biju Patnaik University of Technology, Odisha 
 
 
-### Skills and Expertise
+## Skills and Expertise
 ___
 * State Estimation and Control
 * Time Series Analysis
@@ -35,17 +35,15 @@ ___
 * Statistical Machine Learning (Neural Networks, Probabilistic Graphical Models)
 
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+## [Publications](<ul>{% for post in site.publications %}{% include archive-single-cv.html %}{% endfor %}</ul>)
+
 Teaching
 ___
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-### Professional Services
+## Professional Services
 ___
 - Reviewer for *IEEE Transactions on Smart Grid* 2020
 - Reviewer for *Computers and Chemical Engineering* 2020
