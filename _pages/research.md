@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Research"
+excerpt: "Research"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /research/
+  - /research.html
 ---
+
+Research page
 
 I am a systems scientist. I work on estimation, control and data analysis for health monitoring and operation of complex systems.
 I have worked on monitoring and control of simulated, lab-scale and real-life systems.
