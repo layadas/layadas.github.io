@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I was appointed a *Graduate Teaching Fellow* at IITGN to teach the following courses:
+I was appointed as *Graduate Teaching Fellow* at IITGN to teach the following courses:
 
 ## Applied Statistics
 - Graduate Level course
@@ -16,4 +16,3 @@ I was appointed a *Graduate Teaching Fellow* at IITGN to teach the following cou
 - Graduate Level Course
 - Aug 2016 - Nov 2016
 - Handled 50% of teaching load - classes and tutorials
-https://www3.nd.edu/~pantsakl/Publications/93-CSM91.pdf
