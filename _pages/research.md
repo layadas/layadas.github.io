@@ -1,11 +1,10 @@
 ---
 layout: archive
-permalink: /research/
 title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /research/
-  - /research.html
 ---
 
 blui
