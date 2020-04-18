@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Journal Articles
+### Journal Articles
 =====
 11.	[Hidden representations in deep neural networks: Part 1. Classification problems](https://doi.org/10.1016/j.compchemeng.2019.106669), Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian, *Computers and Chemical Engineering*, 134, 106669, 2020
 10.	[NeuralCompression: A Machine Learning Approach to Compress High Frequency Measurements in Smart Grid](https://doi.org/10.1016/j.apenergy.2019.113966), Laya Das, Dinesh Garg, Babji Srinivasan, *Applied Energy*, 257, 113966, 2020
@@ -18,7 +18,7 @@ Journal Articles
 2.	[A novel framework for integrating data mining with control loop performance assessment](https://doi.org/10.1002/aic.15689), Laya Das, Babji Srinivasan, Raghunathan Rengaswamy, *AIChE Journal*, 62, 146-165, 2016
 1.	[Multivariate Control Loop Performance Assessment with Hurst Exponent and Mahalanobis Distance](https://doi.org/10.1109/TCST.2015.2468087), Laya Das, Babji Srinivasan, Raghunathan Rengaswamy, *IEEE Transactions on Control Systems Technology*, 24(3), 1067-1074, 2016
 
-Conference Proceedings
+### Conference Proceedings
 =====
 5.	[Effect of Transformation in Compressed Sensing of Smart Grid Data](https://ieeexplore.ieee.org/document/8715854), Amit Joshi, Laya Das, Balasubramaniam Natarajan, Babji Srinivasan, 2019 IEEE PES GTD Grand International Conference and Exposition Asia (GTD Asia), Bangkok, Thailand, 2019
 4.	[Cognitive Behaviour Based Framework for Operator Learning: Knowledge and Capability Assessment through Eye Tracking](https://www.sciencedirect.com/science/article/pii/B9780444639653504980), Laya Das,  Babji Srinivasan, Rajagopalan Srinivasan, Proceedings of the 27th European Symposium on Computer Aided Process Engineering, Computer Aided Chemical Engineering, Barcelona, Spain, 2017
