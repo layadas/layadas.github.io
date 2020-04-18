@@ -6,14 +6,16 @@ author_profile: true
 ---
 
 My work focuses on merging domain knowledge and information extracted from data to solve interesting problems, with a broader aim of
-*understanding, monitoring and controlling complex systems*. These somplex systems of interest in the engineering fields are typically *cyber-physical systems*.
-My thesis focused on estimation and control in an industrial context, while collaborative applications have been on smart grid and water distribution networks.
+***understanding, monitoring and controlling complex systems***. These somplex systems of interest in the engineering fields are typically ***cyber-physical systems***.
 
 
 ### Performance Assessment of Estimation and Control in Industrial Cyber-Physical Systems
 
 
 ### Data Management in Smart Grid
+
+
+### Sensor Placement for Leak Localisation in WDN
 
 
 ### 
