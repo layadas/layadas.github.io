@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 My work focuses on merging domain knowledge and information extracted from data to solve interesting problems, with a broader aim of
-***understanding, monitoring and controlling complex systems***. These somplex systems of interest in the engineering fields are typically ***cyber-physical systems***.
-
+***understanding, monitoring and controlling complex systems***. In the engineering fields, these complex systems are typically ***cyber-physical systems***.
 
 ### Performance Assessment of Estimation and Control in Industrial Cyber-Physical Systems
 
