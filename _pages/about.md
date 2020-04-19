@@ -19,4 +19,4 @@ In addition to my thesis, I have collaborated on a range of interesting problems
 [Smart Grid](https://doi.org/10.1016/j.apenergy.2019.113966).
 In each of these applications, we exploit domain knowledge and extract information from data to efficiently solve problems.
 
-Outside of academics, I play badminton, the tabla and TPS games. I am fond of Indian classical music and cooking. At times of leisure, I like to imagine the geometry of dynamics.
+At times of leisure, I like to imagine the geometry of dynamics. Outside of academics, I play badminton, the tabla and TPS games.
