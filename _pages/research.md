@@ -9,7 +9,7 @@ My work focuses on merging domain knowledge and information extracted from data 
 ***understanding, monitoring and controlling complex systems***. In the engineering fields, these complex systems are typically ***cyber-physical systems***.
 
 ### Performance Assessment of Estimation and Control in Industrial Cyber-Physical Systems
-Industrial plants such as Tata's steel manufacturing plant or Intel's chip manufacturing plant contain thousands of control loops. It is imperative the control loops perform
+Industrial plants that manufacture, say steel or electronic chips contain thousands of control loops. It is imperative the control loops perform
 as desired to ensure the quality of product. These control loops typically depend on state estimation for calculating the control moves. My PhD thesis was targeted at quantifying
 the performance of state estimation and control in a manufacturing plant/unit, with several variables interacting with each other.
 - In order to make the approach independent of confounding factors, I employed predictability as a measure of performance
