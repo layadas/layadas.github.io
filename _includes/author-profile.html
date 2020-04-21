@@ -1,9 +1,3 @@
-<style>
-img {
-  border-radius: 20%;
-}
-</style>
-
 {% include base_path %}
 
 {% if page.author and site.data.authors[page.author] %}
@@ -11,10 +5,14 @@ img {
 {% endif %}
 
 <div itemscope itemtype="http://schema.org/Person">
-
+<style>
+img {
+  border-radius: 20%;
+}
+</style>
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+    	<img src="{{ author.avatar }}" alt="{{ author.name }}" style>
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
