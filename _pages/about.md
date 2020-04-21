@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a systems scientist. I work on estimation, control and data analysis for health monitoring and control of complex systems.
+I am a systems scientist. I work on *estimation, control and data analysis for health monitoring and control of complex systems*.
 I have worked on monitoring and control of simulated, lab-scale and real-life systems.
 
 My approach towards understanding, modeling, monitoring and controlling complex systems includes accounting for interactions between individual units.
