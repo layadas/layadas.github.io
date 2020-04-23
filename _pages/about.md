@@ -11,7 +11,7 @@ redirect_from:
 I am a systems scientist. I work on *estimation, control and data analysis for health monitoring and control of complex systems*.
 
 My approach towards understanding, modeling, monitoring and controlling complex systems emphasises on accounting for interactions between individual units.
-For example, I employed Mahalanobis distance to account for interactions between control loops in a [multivariate system](https://doi.org/10.1109/TCST.2015.2468087).
+For instance, I employed Mahalanobis distance to account for interactions between control loops in a [multivariate system](https://doi.org/10.1109/TCST.2015.2468087).
 I am presently studying the interactions between utilitarian agents with entropy and cross-entropy.
 
 I have also collaborated on a range of interesting problems in [Cognitive Engineering](https://doi.org/10.1021/acssuschemeng.7b03971) and
