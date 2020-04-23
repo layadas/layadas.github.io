@@ -31,8 +31,8 @@ ___
 ___
 * State Estimation and Control
 * Time Series Analysis
-* Stochastic Signal Processing (Time frequency analysis, Compressive Sensing)
-* Statistical Machine Learning (Neural Networks, Probabilistic Graphical Models)
+* Stochastic Signal Processing
+* Statistical Machine Learning
 
 
 ## Publications
