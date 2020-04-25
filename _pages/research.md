@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 My work focuses on ***understanding, monitoring and controlling complex systems*** by merging domain knowledge and information extracted from data. In the engineering fields,
-these complex systems are typically ***cyber-physical systems*** such as smart grid, transportation network and industrial control systems. I have worked on monitoring and control
-of simulated, lab-scale and real-life systems.
-
+these complex systems are typically ***cyber-physical systems*** such as smart grid, transportation network and industrial control systems. I have worked on industrial control systems
+and smart grid.
 
 ### Performance Assessment of Estimation and Control in Industrial Cyber-Physical Systems
 Industrial plants that manufacture say, steel or electronic chips contain thousands of control loops. These control loops typically depend on state estimation for calculating the
@@ -27,7 +26,8 @@ worked collaboratively on compressing this data to a mangeable volume with signa
 - In order to improve the compression ratio, I employed autoencoders to perform nonlinear compression of the consumption data
 
 ### Resilience of Smart Grid
-
+The smart grid is prone to extreme conditions imposed by the environment such as hurricanes and cyber-attacks that can result in loss of power. A resilient grid sqiftly recovers from
+such conditions and resumes normal operation. We are currently working on quantifying the resilience of smart grid with graph theoretic methods.
 
 
 ### Side Projects
