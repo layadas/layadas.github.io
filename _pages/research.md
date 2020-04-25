@@ -26,7 +26,7 @@ worked collaboratively on compressing this data to a mangeable volume with signa
 - In order to improve the compression ratio, I employed autoencoders to perform nonlinear compression of the consumption data
 
 ### Resilience of Smart Grid
-The smart grid is prone to extreme conditions imposed by the environment such as hurricanes and cyber-attacks that can result in loss of power. A resilient grid sqiftly recovers from
+The smart grid is prone to extreme conditions imposed by the environment such as hurricanes and cyber-attacks that can result in loss of power. A resilient grid swiftly recovers from
 such conditions and resumes normal operation. We are currently working on quantifying the resilience of smart grid with graph theoretic methods.
 
 
