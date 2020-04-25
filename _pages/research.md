@@ -37,5 +37,3 @@ I have been involved in a few side projects during PhD and post-doc:
 - Fault diagnosis of DC motors with machine learning (IITGN)
 - Understanding the hidden representations of neural networks (CU)
 - Developing a framework for explaining pattern formation in complex systems (CU)
-
-https://www3.nd.edu/~pantsakl/Publications/93-CSM91.pdf
