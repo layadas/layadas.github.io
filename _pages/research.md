@@ -61,7 +61,7 @@ This project was aimed at reducing the size of data to a mangeable volume with s
 - The compression ratio was improved by performing nonlinear compression with autoencoders.
 
 ### Additional Projects
-I have been involved in a few additional projects during PhD and post-doc:
+I have been involved in a few additional projects:
 - *Understanding control room operator actions with cognitive engineering (2017-2018, IITGN)*: This project was in collaboration with
 [Prof Rajagopalan Srinivasan](https://che.iitm.ac.in/?page_id=457) (then at IITGN), where we employed eye tracking to understand the behaviour of control room operators in industrial
 plants
