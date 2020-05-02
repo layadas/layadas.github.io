@@ -48,7 +48,7 @@ manufacturing plant/unit, with several variables interacting with each other.
 [Dr Babji Srinivasan](https://www.iitgn.ac.in/faculty/chemical/fac-babji) at IITGN
 - During my PhD, I was deputed to IIT Madras as a visiting student, where I closely worked with [Prof Raghunathan Rengaswamy](https://che.iitm.ac.in/?page_id=380) on my thesis.
 - The developed approach exploited the interplay betwen performance, predictability and correlations between variables in control loops.
-- The framework was tested on simulated systems, experimental setups and real life industrial data from Amul dairy plant.
+- The framework was tested on simulated systems, experimental setups and real life industrial data.
 
 ### Data Management in Smart Grid
 In a smart grid, power consumption data is collected at consuming nodes and communicated to data processing centres for analysis. A back-of-the-hand calculation revleas that sizable
