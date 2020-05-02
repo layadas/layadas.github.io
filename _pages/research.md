@@ -36,8 +36,8 @@ interacting units at equilibrium so that they can be better modelled, monitored 
 - This project is a part of my post-doc research with [Prof Venkat Venkatasubramanian](https://datascience.columbia.edu/venkat-venkatasubramanian-0) (CU).
 - We are working on developing a framework that captures the dynamics of individual units and accounts for their interactions, that can identify the equilibrium of such systems.
 
-### Understanding Neural Networks
-
+<!-- ### Understanding Neural Networks
+ -->
 ## Completed Projects
 
 ### Performance Assessment of Estimation and Control in Industrial Cyber-Physical Systems
