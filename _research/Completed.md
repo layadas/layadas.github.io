@@ -1,22 +1,9 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Completed Projects"
+permalink: /research/completed-projects/
 author_profile: true
 ---
-
-My work focuses on ***understanding, monitoring and controlling complex systems*** by merging domain knowledge and information extracted from data. In the engineering fields,
-these complex systems are typically ***cyber-physical systems*** such as smart grid, transportation network and industrial control systems. I work on problems at the
-intersection of theory and applications.
-
-## Ongoing Projects
-
-### Resilience of Smart Grid
-The smart grid is prone to extreme conditions imposed by the environment such as hurricanes and cyber-attacks that can result in loss of power. A resilient grid swiftly recovers from
-such conditions and resumes normal operation. We are currently working on quantifying the resilience of smart grid with graph theoretic methods.
-
-### Equilibrium Dynamics of Systems with Competing Phenomena
-
 
 ## Past Projects
 
