@@ -9,11 +9,13 @@ My work focuses on ***understanding, monitoring and controlling complex systems*
 these complex systems are typically ***cyber-physical systems*** such as smart grid, transportation network and industrial control systems. I work on problems at the
 intersection of theory and applications.
 
+<!-- You can find details 
+
 {% include base_path %}
 
 {% for post in site.research/ reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 ## Ongoing Projects
 
@@ -22,7 +24,24 @@ The smart grid is prone to extreme conditions imposed by the environment such as
 such conditions and resumes normal operation. We are currently working on quantifying the resilience of smart grid with graph theoretic methods.
 
 ### Equilibrium Dynamics of Systems with Competing Phenomena
-
+Systems with large number of agents are known exhibit self-organization, i.e., emergence of order and patterns in the absence of a leader. Self-organization is observed in a wide
+range of
+systems, including uniform distribution of gas molecules in a room to formation of termite
+mounds. We present a unifying framework that is capable of (i) capturing the general
+behaviour of self-organizing systems, as well as (ii) incorporating the nuances of different
+systems with appropriate modifications. The proposed framework adopts a utilitarian
+approach – one where an individual agent tries to maximize its utility and self-organization is
+achieved as a result of collective evolution of interacting agents. We show that such an
+approach inherently introduces the concept of entropy maximization and different constraints
+imposed on the system (and agents) result in different distributions characterizing the self-
+organizing patterns. Furthermore, the framework handles the presence of multiple
+populations of the agents – compatible or incompatible – with the concept of cross-entropy,
+and generalizes well to systems with any number of competing populations. While the
+individual agent in the system attempts to maximize its utility, equilibrium of the system as a
+whole is shown to be achieved through maximization of entropy and cross-entropy. The
+framework is observed to be capable of accurately predicting the behaviour of passive (gas
+molecules, oil-water mixture) as well as active matter (termite mounds) and propounds
+entropy (and cross-entropy) as the underlying phenomenon driving self-organization.
 
 ## Past Projects
 
