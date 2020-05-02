@@ -20,6 +20,6 @@ Online Courses:
 - Probabilistic Graphical Models 1: Representation (Coursera)
 
 Online Lectures:
-- Linear Algebra by G Strang @ MIT
-- Convex Optimisation by S P Boyd @ Stanford University
-- Nonlinear Dynamics by J J Slotine @ MIT
+- Linear Algebra by Prof Gilbert Strang @ MIT
+- Convex Optimisation by Prof Stephen P Boyd @ Stanford University
+- Nonlinear Dynamics by Prof Jean-Jacques Slotine @ MIT
