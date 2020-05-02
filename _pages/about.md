@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a systems scientist. I work on *estimation, control and data analysis for health monitoring and control of complex systems*.
+I am a systems scientist. I work on ***estimation, control and data analysis for health monitoring and control of complex systems***.
 
 I obtained my PhD in Electrical Engineering from Indian Institute of Technology Gandhinagar in 2018. I am presently a post-doctoral research scientist at Columbia University.
 
