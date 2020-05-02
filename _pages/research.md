@@ -31,10 +31,10 @@ from such conditions and resumes normal operation.
 information about grid parameters to quantify resilience to extreme events.
 
 ### Equilibrium Dynamics of Complex Systems with Competing Phenomena (2020-Present)
-Several of modern man-made systems are complex enough to challenge the minds of their designers. This project is aimed at understanding the dynamics of systems with several
+The complexity of modern man-made systems is beginning to challenge the minds of their designers. This project is aimed at understanding the dynamics of systems with numerous
 interacting units at equilibrium so that they can be better modelled, monitored and controlled. Applications of such an anlysis can be found in control of robots and drone ensembles.
-- This project is a part of my post-doc research with [Prof Venkat Venkatasubramanian](https://datascience.columbia.edu/venkat-venkatasubramanian-0) (CU).
-- We are working on developing a framework that captures the dynamics of individual units and accounts for their interactions, that can identify the equilibrium of such systems.
+- This project is a part of my post-doctoral research with [Prof Venkat Venkatasubramanian](https://datascience.columbia.edu/venkat-venkatasubramanian-0) (CU).
+- We are working on developing a framework that captures the dynamics of individual units and accounts for their interactions towards identifying the equilibrium of such systems.
 
 <!-- ### Understanding Neural Networks
  -->
