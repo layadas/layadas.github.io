@@ -51,9 +51,9 @@ manufacturing plant/unit, with several variables interacting with each other.
 - The framework was tested on simulated systems, experimental setups and real life industrial data.
 
 ### Data Management in Smart Grid
-In a smart grid, power consumption data is collected at consuming nodes and communicated to data processing centres for analysis. A back-of-the-hand calculation revleas that sizable
-city like Chennai can generate 3 TB of data in as much time as a day to a fortnight, depending on the sampling rate, and communicating and storing such data is a challenging affair.
-This project was aimed at reducing the size of data to a mangeable volume with signal processing and machine learning.
+In a smart grid, power consumption data is collected at consuming nodes and communicated to data processing centres for analysis. A back-of-the-hand calculation revleas that a
+sizable city like Chennai can generate 3 TB of data in as much time as a day to a fortnight, depending on the sampling rate, and communicating and storing such data is a challenging
+affair. This project was aimed at reducing the size of data to a mangeable volume with signal processing and machine learning.
 - This project was in collaboration with [Dr Babji Srinivasan](https://www.iitgn.ac.in/faculty/chemical/fac-babji) (IITGN), 
 [Prof Balasubramaniam Natarajan](http://www.ece.k-state.edu/people/faculty/natarajan/) (KSU) and
 [Dr Dinesh Garg](https://researcher.watson.ibm.com/researcher/view.php?person=in-garg.dinesh) (then at IITGN).
