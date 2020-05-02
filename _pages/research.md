@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 My work focuses on ***understanding, monitoring and controlling complex systems*** by merging domain knowledge and information extracted from data. In the engineering fields,
-these complex systems are typically ***cyber-physical systems*** such as smart grid, transportation network and industrial control systems. I like to work on problems at the
+these complex systems are typically ***cyber-physical systems*** such as smart grid, transportation network and industrial control systems. I work on problems at the
 intersection of theory and applications.
+
+<ul>{% for post in site.teaching %}
+  {% include archive-single-research.html %}
+{% endfor %}</ul>
 
 ### Performance Assessment of Estimation and Control in Industrial Cyber-Physical Systems
 Industrial plants that manufacture say, steel or electronic chips contain thousands of control loops. These control loops typically depend on state estimation for calculating the
