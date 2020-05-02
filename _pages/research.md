@@ -9,8 +9,9 @@ My work focuses on ***understanding, monitoring and controlling complex systems*
 these complex systems are typically ***cyber-physical systems*** such as smart grid, transportation network and industrial control systems. I work on problems at the
 intersection of theory and applications.
 
-<!-- You can find details 
+You can find details about the ongoing and completed projects below.
 
+<!-- 
 {% include base_path %}
 
 {% for post in site.research/ reversed %}
@@ -19,7 +20,7 @@ intersection of theory and applications.
 
 ## Ongoing Projects
 
-### Resilience of Smart Grid
+### Resilience of Smart Grid (2019-Present)
 The smart grid is prone to extreme conditions imposed by the environment such as hurricanes and cyber-attacks that can result in loss of power. A resilient grid swiftly recovers
 from such conditions and resumes normal operation.
 - This project is in collaboration with [Dr Babji Srinivasan](https://www.iitgn.ac.in/faculty/chemical/fac-babji) (IITGN) and
@@ -28,7 +29,7 @@ from such conditions and resumes normal operation.
 - We are currently working on quantifying the resilience of smart grid with graph theoretic methods. We plan to exploit graph theoretic properties of networks along with physical
 information about grid parameters to quantify resilience to extreme events.
 
-### Equilibrium Dynamics of Complex Systems with Competing Phenomena
+### Equilibrium Dynamics of Complex Systems with Competing Phenomena (2020-Present)
 Several of modern man-made systems are complex enough to challenge the minds of their designers. This project is aimed at understanding the dynamics of systems with several
 interacting units at equilibrium so that they can be better modelled, monitored and controlled. Applications of such an anlysis can be found in robotics and drone-assmebly control.
 - This project is a part of my post-doc research with [Prof Venkat Venkatasubramanian](https://datascience.columbia.edu/venkat-venkatasubramanian-0) (CU).
