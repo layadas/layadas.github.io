@@ -14,7 +14,7 @@ I have credited the following courses:
 - System Identification (IITM)
 - Multivariate Data Analysis for Process Modelling (IITM)
 
-I have credited the following online courss:
+I have credited the following online courses:
 - Neural Networks and Deep Learning (Coursera)
 - Convolutional Neural Networks (Coursera)
 - Probabilistic Graphical Models 1: Representation (Coursera)
