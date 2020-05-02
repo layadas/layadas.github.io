@@ -20,8 +20,10 @@ intersection of theory and applications.
 ## Ongoing Projects
 
 ### Resilience of Smart Grid
-The smart grid is prone to extreme conditions imposed by the environment such as hurricanes and cyber-attacks that can result in loss of power. A resilient grid swiftly recovers from
-such conditions and resumes normal operation. We are currently working on quantifying the resilience of smart grid with graph theoretic methods.
+The smart grid is prone to extreme conditions imposed by the environment such as hurricanes and cyber-attacks that can result in loss of power. A resilient grid swiftly recovers
+from such conditions and resumes normal operation. I am currently working on quantifying the resilience of smart grid with graph theoretic methods.
+- This project is in collaboration with [Dr Babji Srinivasan](https://www.iitgn.ac.in/faculty/chemical/fac-babji) and
+[Prof Balasubramaniam Natarajan](http://www.ece.k-state.edu/people/faculty/natarajan/)
 
 ### Equilibrium Dynamics of Systems with Competing Phenomena
 Systems with large number of agents are known exhibit self-organization, i.e., emergence of order and patterns in the absence of a leader. Self-organization is observed in a wide
