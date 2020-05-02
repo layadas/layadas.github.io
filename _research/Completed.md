@@ -9,12 +9,6 @@ My work focuses on ***understanding, monitoring and controlling complex systems*
 these complex systems are typically ***cyber-physical systems*** such as smart grid, transportation network and industrial control systems. I work on problems at the
 intersection of theory and applications.
 
-{% include base_path %}
-
-{% for post in site.research/ reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Ongoing Projects
 
 ### Resilience of Smart Grid
