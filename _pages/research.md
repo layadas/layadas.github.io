@@ -9,7 +9,8 @@ My work focuses on ***understanding, monitoring and controlling complex systems*
 these complex systems are typically ***cyber-physical systems*** such as smart grid, transportation network and industrial control systems. I work on exciting problems at the
 intersection of theory and applications.
 
-You can find details about the ongoing and completed projects below.
+I have had the opportunity to work in multi-discplinary teams, with members from Electrical Engineering, Chemical Engineering, Computer Science and Physics. You can find details
+about the ongoing and completed projects below.
 
 <!-- 
 {% include base_path %}
@@ -35,6 +36,8 @@ interacting units at equilibrium so that they can be better modelled, monitored 
 - This project is a part of my post-doc research with [Prof Venkat Venkatasubramanian](https://datascience.columbia.edu/venkat-venkatasubramanian-0) (CU).
 - We are working on developing a framework that captures the dynamics of individual units and accounts for their interactions, that can identify the equilibrium of such systems.
 
+### Understanding Neural Networks
+
 ## Completed Projects
 
 ### Performance Assessment of Estimation and Control in Industrial Cyber-Physical Systems
@@ -43,8 +46,8 @@ performance of these control loops determine the quality of the product (steel/c
 manufacturing plant/unit, with several variables interacting with each other.
 - This project was my PhD thesis (titled *Assessing the Performance of Estimation and Control: from Data to Knowledge*) with
 [Dr Babji Srinivasan](https://www.iitgn.ac.in/faculty/chemical/fac-babji) at IITGN
-- During my PhD, I deputed to IIT Madras as a visiting student, where I closely worked with [Prof Raghunathan Rengaswamy](https://che.iitm.ac.in/?page_id=380) on my thesis.
-- The developed approach exploited the interplay betwen performance, predictability and correlations in variables in control loops.
+- During my PhD, I was deputed to IIT Madras as a visiting student, where I closely worked with [Prof Raghunathan Rengaswamy](https://che.iitm.ac.in/?page_id=380) on my thesis.
+- The developed approach exploited the interplay betwen performance, predictability and correlations between variables in control loops.
 - The framework was tested on simulated systems, experimental setups and real life industrial data from Amul dairy plant.
 
 ### Data Management in Smart Grid
@@ -59,8 +62,9 @@ This project was aimed at reducing the size of data to a mangeable volume with s
 
 ### Additional Projects
 I have been involved in a few additional projects during PhD and post-doc:
-- Understanding control room operator actions with cognitive engineering (IITGN)
-- Sensor placement for leak localisation in water distribution networks (IITGN)
-- Fault diagnosis of DC motors with machine learning (IITGN)
-- Understanding the hidden representations of neural networks (CU)
-- Developing a framework for explaining pattern formation in complex systems (CU)
+- **Understanding control room operator actions with cognitive engineering (2017-2018, IITGN)**: This project was in collaboration with
+[Prof Rajagopalan Srinivasan](https://che.iitm.ac.in/?page_id=457) (then at IITGN), where we employed eye tracking to understand the behaviour of control room operators in industrial
+plants
+- **Sensor placement for leak localisation in water distribution networks (2018, IITGN)**: This was a project funded by the WIN foundation with the objective of identifying sensor
+locations for leak localisation in water distribution networks.
+- **Fault diagnosis of DC motors with machine learning (2018, IITGN)**: I worked with a Masters' student to employ machine learning for diagnosis of incipient faults in DC motors.
