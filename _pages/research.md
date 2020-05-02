@@ -10,7 +10,7 @@ these complex systems are typically ***cyber-physical systems*** such as smart g
 intersection of theory and applications.
 
   <ul>{% for post in site.publications %}
-    {% include archive-single-research.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
 
 ### Performance Assessment of Estimation and Control in Industrial Cyber-Physical Systems
