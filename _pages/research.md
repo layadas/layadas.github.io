@@ -21,31 +21,20 @@ intersection of theory and applications.
 
 ### Resilience of Smart Grid
 The smart grid is prone to extreme conditions imposed by the environment such as hurricanes and cyber-attacks that can result in loss of power. A resilient grid swiftly recovers
-from such conditions and resumes normal operation. I am currently working on quantifying the resilience of smart grid with graph theoretic methods.
-- This project is in collaboration with [Dr Babji Srinivasan](https://www.iitgn.ac.in/faculty/chemical/fac-babji) and
-[Prof Balasubramaniam Natarajan](http://www.ece.k-state.edu/people/faculty/natarajan/)
+from such conditions and resumes normal operation.
+- This project is in collaboration with [Dr Babji Srinivasan](https://www.iitgn.ac.in/faculty/chemical/fac-babji) (IITGN) and
+[Prof Balasubramaniam Natarajan](http://www.ece.k-state.edu/people/faculty/natarajan/) (KSU)
+- We have submitted a review of the methods, challenges and opportunities in measuring resilience of smart grids.
+- We are currently working on quantifying the resilience of smart grid with graph theoretic methods. We plan to exploit graph theoretic properties of networks along with physical
+information about grid parameters to quantify resilience to extreme events.
 
-### Equilibrium Dynamics of Systems with Competing Phenomena
-Systems with large number of agents are known exhibit self-organization, i.e., emergence of order and patterns in the absence of a leader. Self-organization is observed in a wide
-range of
-systems, including uniform distribution of gas molecules in a room to formation of termite
-mounds. We present a unifying framework that is capable of (i) capturing the general
-behaviour of self-organizing systems, as well as (ii) incorporating the nuances of different
-systems with appropriate modifications. The proposed framework adopts a utilitarian
-approach – one where an individual agent tries to maximize its utility and self-organization is
-achieved as a result of collective evolution of interacting agents. We show that such an
-approach inherently introduces the concept of entropy maximization and different constraints
-imposed on the system (and agents) result in different distributions characterizing the self-
-organizing patterns. Furthermore, the framework handles the presence of multiple
-populations of the agents – compatible or incompatible – with the concept of cross-entropy,
-and generalizes well to systems with any number of competing populations. While the
-individual agent in the system attempts to maximize its utility, equilibrium of the system as a
-whole is shown to be achieved through maximization of entropy and cross-entropy. The
-framework is observed to be capable of accurately predicting the behaviour of passive (gas
-molecules, oil-water mixture) as well as active matter (termite mounds) and propounds
-entropy (and cross-entropy) as the underlying phenomenon driving self-organization.
+### Equilibrium Dynamics of Complex Systems with Competing Phenomena
+Several of modern man-made systems are complex enough to challenge the minds of their designers. This project is aimed at understanding the dynamics of systems with several
+interacting units at equilibrium so that they can be better modelled, monitored and controlled. Applications of such an anlysis can be found in robotics and drone-assmebly control.
+- This project is a part of my post-doc research with [Prof Venkat Venkatasubramanian](https://datascience.columbia.edu/venkat-venkatasubramanian-0) (CU).
+- We are working on developing a framework that captures the dynamics of individual units and accounts for their interactions, that can identify the equilibrium of such systems.
 
-## Past Projects
+## Completed Projects
 
 ### Performance Assessment of Estimation and Control in Industrial Cyber-Physical Systems
 Industrial plants that manufacture say, steel or electronic chips contain thousands of control loops. These control loops typically depend on state estimation for calculating the
