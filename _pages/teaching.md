@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I was appointed as *Graduate Teaching Fellow* at IITGN to teach the following courses:
+I was appointed as ***Graduate Teaching Fellow*** at IITGN to teach the following courses:
 
 #### Applied Statistics
 - Graduate Level course
@@ -17,9 +17,10 @@ I was appointed as *Graduate Teaching Fellow* at IITGN to teach the following co
 - Aug 2016 - Nov 2016
 - Handled 50% of teaching load - lectures and tutorials
 
-I was appointed as *Teaching Assistant* for the following courses:
+I was appointed as ***Teaching Assistant*** for the following courses:
 - Network Theory (IITGN)
 - Signals and Systems (IITGN)
 - Control Theory (IITGN)
 - Modern Control Theory (IITGN)
 - Artificial Intelligence for Chemical Engineering (CU)
+- Income Inequality: A Teleological Perspective (Summer Course at NUS - on deputation from Columbia University)
