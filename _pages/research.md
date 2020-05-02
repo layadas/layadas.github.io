@@ -9,9 +9,16 @@ My work focuses on ***understanding, monitoring and controlling complex systems*
 these complex systems are typically ***cyber-physical systems*** such as smart grid, transportation network and industrial control systems. I work on problems at the
 intersection of theory and applications.
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single.html %}
-  {% endfor %}</ul>
+## Ongoing Projects
+
+### Resilience of Smart Grid
+The smart grid is prone to extreme conditions imposed by the environment such as hurricanes and cyber-attacks that can result in loss of power. A resilient grid swiftly recovers from
+such conditions and resumes normal operation. We are currently working on quantifying the resilience of smart grid with graph theoretic methods.
+
+### Equilibrium Dynamics of Systems with Competing Phenomena
+
+
+## Past Projects
 
 ### Performance Assessment of Estimation and Control in Industrial Cyber-Physical Systems
 Industrial plants that manufacture say, steel or electronic chips contain thousands of control loops. These control loops typically depend on state estimation for calculating the
@@ -29,13 +36,9 @@ worked collaboratively on compressing this data to a mangeable volume with signa
 - In order to account for locality-based similarities in consumption patterns, we proposed PCA along with compressed sensing to perform spatio-temporal compression
 - In order to improve the compression ratio, I employed autoencoders to perform nonlinear compression of the consumption data
 
-### Resilience of Smart Grid
-The smart grid is prone to extreme conditions imposed by the environment such as hurricanes and cyber-attacks that can result in loss of power. A resilient grid swiftly recovers from
-such conditions and resumes normal operation. We are currently working on quantifying the resilience of smart grid with graph theoretic methods.
 
-
-### Side Projects
-I have been involved in a few side projects during PhD and post-doc:
+### Additional Projects
+I have been involved in a few additional projects during PhD and post-doc:
 - Understanding control room operator actions with cognitive engineering (IITGN)
 - Sensor placement for leak localisation in water distribution networks (IITGN)
 - Fault diagnosis of DC motors with machine learning (IITGN)
