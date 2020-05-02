@@ -12,11 +12,8 @@ I am a systems scientist. I work on ***estimation, control and data analysis for
 
 I obtained my PhD in Electrical Engineering from Indian Institute of Technology Gandhinagar in 2018. I am presently a post-doctoral research scientist at Columbia University.
 
-<div style="text-align: justify">
 My approach towards understanding, modeling, monitoring and controlling complex systems places emphasis on accounting for interactions between individual units. I have worked on a
 range of interdisciplinary problems in industrial control systems, cognitive engineering and smart grid. In each of these applications, I exploit domain knowledge and extract
 information from data to efficiently solve problems.
-
-</div>
 
 At times of leisure, I like to imagine the geometry of dynamics.
