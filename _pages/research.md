@@ -30,7 +30,7 @@ from such conditions and resumes normal operation.
 - We are currently working on quantifying the resilience of smart grid with graph theoretic methods. We plan to exploit graph theoretic properties of networks along with physical
 information about grid parameters to quantify resilience to extreme events.
 
-### Equilibrium Dynamics of Complex Systems with Competing Phenomena (2020-Present)
+### Formation Control Problems in Natural and Man-made Systems (2020-Present)
 The complexity of modern man-made systems is beginning to challenge the minds of their designers. This project is aimed at understanding the dynamics of systems with numerous
 interacting units at equilibrium so that they can be better modelled, monitored and controlled. Applications of such an anlysis can be found in control of robots and drone ensembles.
 - This project is a part of my post-doctoral research with [Prof Venkat Venkatasubramanian](https://datascience.columbia.edu/venkat-venkatasubramanian-0) (CU).
