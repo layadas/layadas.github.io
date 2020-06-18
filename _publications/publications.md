@@ -11,7 +11,7 @@ Journal Articles
 11.	[Hidden representations in deep neural networks: Part 1. Classification problems](https://doi.org/10.1016/j.compchemeng.2019.106669), Abhishek Sivaram, Laya Das, Venkat Venkatasubramanian, *Computers and Chemical Engineering*, 134, 106669, 2020
 
 ### Data Management and Resilience of Smart Grids
-13. [Measuring smart grid resilience: Methods, challenges and opportunities](https://doi.org/10.1016/j.rser.2020.109918), Laya Das, Sai Munikoti, Balasubramaniam Natarajan, Babji Srinivasan, (In Press) *Renewable and Sustainable Energy Reviews*
+13. [Measuring smart grid resilience: Methods, challenges and opportunities](https://doi.org/10.1016/j.rser.2020.109918), Laya Das, Sai Munikoti, Balasubramaniam Natarajan, Babji Srinivasan, *Renewable and Sustainable Energy Reviews*, 109918, 2020
 10.	[NeuralCompression: A Machine Learning Approach to Compress High Frequency Measurements in Smart Grid](https://doi.org/10.1016/j.apenergy.2019.113966), Laya Das, Dinesh Garg, Babji Srinivasan, *Applied Energy*, 257, 113966, 2020
 7.	[A Framework for Efficient Information Aggregation in Smart Grid](https://doi.org/10.1109/TII.2018.2866302), Amit Joshi, Laya Das, Balasubramaniam Natarajan, Babji Srinivasan, *IEEE Transactions on Industrial Informatics*, 15(4), 2233-2243, 2019
 
