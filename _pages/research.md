@@ -21,15 +21,6 @@ about the ongoing and completed projects below.
 
 ## Ongoing Projects
 
-### Fault Detection of Wind Turbines (2020-Present)
-Wind turbines are an important renewable energy generators that harness the energy from wind. Wind turbines, like all devices are prone to faults that result in poor performance,
-and at times loss of power. Fault detection of wind turbines is typicaally carried out with vibration data - an exhaustive set of measurements from tens or hundreds of (extremely
-expensive) sensors.
-- This project is in collaboration with [AspenTech](https://www.aspentech.com/) under the
-[AspenTech Academy](https://www.aspentech.com/en/resources/press-releases/aspentech-announces-aspentech-academy15032387419) program.
-- We are exploring techniques for detecting faults in wind turbines with SCADA data - that is easily available.
-- Raw measurements and derived variables are used to identify patterns indicative of abnormal behaviour using stastical techniques.
-
 ### Resilience of Smart Grid (2019-Present)
 The smart grid is prone to extreme conditions imposed by the environment such as hurricanes and cyber-attacks that can result in loss of power. A resilient grid swiftly recovers
 from such conditions and resumes normal operation.
@@ -38,6 +29,15 @@ from such conditions and resumes normal operation.
 - We have submitted a review of the methods, challenges and opportunities in measuring resilience of smart grids.
 - We are currently working on quantifying the resilience of smart grid with graph theoretic methods. We plan to exploit graph theoretic properties of networks along with physical
 information about grid parameters to quantify resilience to extreme events.
+
+### Fault Detection of Wind Turbines (2020-Present)
+Wind turbines are an important renewable energy generators that harness the energy from wind. Wind turbines, like all devices are prone to faults that result in poor performance,
+and at times loss of power. Fault detection of wind turbines is typicaally carried out with vibration data - an exhaustive set of measurements from tens or hundreds of (extremely
+expensive) sensors.
+- This project is in collaboration with [AspenTech](https://www.aspentech.com/) under the
+[AspenTech Academy](https://www.aspentech.com/en/resources/press-releases/aspentech-announces-aspentech-academy15032387419) program.
+- We are exploring techniques for detecting faults in wind turbines with SCADA data - that is easily available.
+- Raw measurements and derived variables are used to identify patterns indicative of abnormal behaviour using stastical techniques.
 
 ### Formation Control Problems in Natural and Man-made Systems (2020-Present)
 The complexity of modern man-made systems is beginning to challenge the minds of their designers. This project is aimed at understanding the dynamics of systems with numerous
